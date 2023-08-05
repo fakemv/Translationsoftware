@@ -1,14 +1,15 @@
+import os
 import time
 import keyboard  # 监听键盘
 import pyperclip
 import backend
-import win10toast
+from win11toast import toast
 
-toaster = win10toast.ToastNotifier()
-toaster.show_toast("运行成功！",
-                   "按esc键退出程序,按ctrl+c翻译.",
-                   "icon/3.ico",
-                   duration=5)
+currentPath = os.getcwd().replace('\\','/')
+toast("运行成功！",
+      "按esc键退出程序,选中翻译内容按ctrl+c翻译.",
+      icon=f"{currentPath}/icon/head.ico",
+      image=f"{currentPath}/icon/class.png")
 
 
 def play():
@@ -19,3 +20,6 @@ def play():
 
 keyboard.add_hotkey('ctrl+c', play, )
 keyboard.wait('esc')
+toast("退出成功！",
+      "Exit successful!",
+      icon=f'{currentPath}/icon/end.ico')

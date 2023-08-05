@@ -1,4 +1,5 @@
 import json
+import os
 import urllib
 from urllib import request
 from win11toast import toast
@@ -7,6 +8,7 @@ from win11toast import toast
 class trans(object):
     def __init__(self):
         self.url = 'http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule'
+        self.currentPath = os.getcwd().replace('\\', '/')
 
     def tran(self, texts):
 
@@ -35,7 +37,6 @@ class trans(object):
             self.result = result
         except:
             self.result = "翻译失败......."
-
-        toast("内容",
-              f"{self.result}",
+        toast(f"{self.result}",
+              icon=f"{self.currentPath}/icon/body.ico",
               audio={'silent': 'true'})

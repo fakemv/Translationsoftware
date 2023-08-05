@@ -4,8 +4,441 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552e7ac2-df96-46ef-ba1a-268e3b8d5cfd" name="变更" comment="">
+    <list default="true" id="552e7ac2-df96-46ef-ba1a-268e3b8d5cfd" name="变更" comment="重新上传">
+      <change afterPath="$PROJECT_DIR$/build/main/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/COLLECT-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/generated-2490ec58d259062a223b90f5111b86fe71a92899769a0867ef440730506e9b83.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/icon/body.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/icon/class.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/icon/class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/icon/earth.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/icon/end.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/icon/head.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/icon/head2.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/main.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/main.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/warn-main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/xref-main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/MSVCP140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/MSVCP140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/Qt5Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/Qt5DBus.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/Qt5Gui.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/Qt5Network.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/Qt5Qml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/Qt5QmlModels.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/Qt5Quick.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/Qt5Svg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/Qt5WebSockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/Qt5Widgets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/VCRUNTIME140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/d3dcompiler_47.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/libEGL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/libGLESv2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/bin/opengl32sw.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/generic/qtuiotouchplugin.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/iconengines/qsvgicon.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/imageformats/qgif.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/imageformats/qicns.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/imageformats/qico.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/imageformats/qjpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/imageformats/qsvg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/imageformats/qtga.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/imageformats/qtiff.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/imageformats/qwbmp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/imageformats/qwebp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/platforms/qminimal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/platforms/qoffscreen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/platforms/qwebgl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/platforms/qwindows.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/platformthemes/qxdgdesktopportal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/plugins/styles/qwindowsvistastyle.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_ar.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_bg.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_ca.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_cs.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_da.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_de.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_en.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_es.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_fa.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_fi.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_fr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_gd.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_gl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_he.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_ar.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_bg.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_ca.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_cs.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_da.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_de.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_en.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_es.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_fr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_gl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_hu.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_it.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_ja.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_ko.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_pl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_ru.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_sk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_sl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_tr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_uk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_zh_CN.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_help_zh_TW.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_hu.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_it.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_ja.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_ko.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_lt.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_lv.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_pl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_pt.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_ru.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_sk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_sl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_sv.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_tr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_uk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_zh_CN.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qt_zh_TW.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_ar.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_bg.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_ca.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_cs.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_da.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_de.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_en.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_es.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_fi.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_fr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_gd.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_he.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_hu.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_it.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_ja.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_ko.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_lv.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_pl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_ru.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_sk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_tr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_uk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/Qt5/translations/qtbase_zh_TW.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/QtCore.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/QtGui.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/QtWidgets.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/PyQt5/sip.cp311-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/VCRUNTIME140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/VCRUNTIME140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_asyncio.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_ctypes.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_decimal.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_hashlib.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_lzma.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_multiprocessing.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_overlapped.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_queue.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_socket.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_ssl.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/_uuid.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/icon/body.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/icon/class.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/icon/class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/icon/earth.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/icon/end.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/icon/head.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/icon/head2.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/libcrypto-1_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/libffi-8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/libssl-1_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/pyexpat.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/python311.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/unicodedata.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/win11toast-0.32.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/win11toast-0.32.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/win11toast-0.32.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/win11toast-0.32.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/win11toast-0.32.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/win11toast-0.32.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/win11toast-0.32.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main/winsdk/_winrt.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/body.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/class.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/earth.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/end.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/head.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/head2.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/容译.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/变更/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tltnapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/MSVCP140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/MSVCP140_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/Qt5Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/Qt5DBus.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/Qt5Gui.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/Qt5Network.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/Qt5Qml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/Qt5QmlModels.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/Qt5Quick.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/Qt5Svg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/Qt5WebSockets.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/Qt5Widgets.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/VCRUNTIME140_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/d3dcompiler_47.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/libEGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/libGLESv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/bin/opengl32sw.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/generic/qtuiotouchplugin.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/iconengines/qsvgicon.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/imageformats/qgif.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/imageformats/qicns.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/imageformats/qico.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/imageformats/qjpeg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/imageformats/qsvg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/imageformats/qtga.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/imageformats/qtiff.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/imageformats/qwbmp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/imageformats/qwebp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/platforms/qminimal.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/platforms/qoffscreen.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/platforms/qwebgl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/platforms/qwindows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/platformthemes/qxdgdesktopportal.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/plugins/styles/qwindowsvistastyle.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_ar.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_bg.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_ca.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_cs.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_da.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_de.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_en.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_es.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_fa.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_fi.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_fr.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_gd.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_gl.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_he.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_ar.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_bg.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_ca.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_cs.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_da.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_de.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_en.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_es.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_fr.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_gl.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_hu.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_it.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_ja.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_ko.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_pl.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_ru.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_sk.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_sl.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_tr.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_uk.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_zh_CN.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_help_zh_TW.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_hu.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_it.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_ja.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_ko.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_lt.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_lv.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_pl.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_pt.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_ru.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_sk.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_sl.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_sv.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_tr.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_uk.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_zh_CN.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qt_zh_TW.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_ar.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_bg.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_ca.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_cs.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_da.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_de.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_en.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_es.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_fi.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_fr.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_gd.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_he.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_hu.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_it.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_ja.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_ko.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_lv.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_pl.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_ru.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_sk.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_tr.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_uk.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/Qt5/translations/qtbase_zh_TW.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/QtCore.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/QtGui.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/QtWidgets.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/PyQt5/sip.cp311-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/Pythonwin/mfc140u.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/Pythonwin/win32ui.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/VCRUNTIME140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/VCRUNTIME140_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_asyncio.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_decimal.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_lzma.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_multiprocessing.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_overlapped.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_queue.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/_uuid.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-multibyte-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/libcrypto-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/libffi-8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/libssl-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/python3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/python311.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/pywin32_system32/pythoncom311.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/pywin32_system32/pywintypes311.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/ucrtbase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win10toast-0.9.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win10toast-0.9.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win10toast-0.9.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win10toast-0.9.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win10toast-0.9.dist-info/REQUESTED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win10toast-0.9.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win10toast-0.9.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win10toast-0.9.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win11toast-0.32.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win11toast-0.32.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win11toast-0.32.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win11toast-0.32.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win11toast-0.32.dist-info/REQUESTED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win11toast-0.32.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win11toast-0.32.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win32/_win32sysloader.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win32/win32api.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win32/win32gui.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win32/win32trace.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/win32com/shell/shell.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/winsdk/_winrt.pyd" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +453,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="import" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -35,17 +473,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="C:/Windows/System32/OpenSSH/ssh.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build/main" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\wenjian\python\tltnapp\build\main" />
+      <recent name="I:\wenjian\python\tltnapp\dist\main" />
+      <recent name="I:\wenjian\python\tltnapp\icon" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\wenjian\python\tltnapp\icon" />
       <recent name="I:\wenjian\python\tltnapp" />
       <recent name="I:\wenjian\python\tltnapp\app" />
       <recent name="I:\wenjian\python\tltnapp\apptwo" />
@@ -53,7 +498,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="backend" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tltnapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +506,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apptwo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="I:\wenjian\python\tltnapp\backend.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backend (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tltnapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,27 +624,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shiyan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tltnapp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shiyan.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="shiyan2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tltnapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,15 +666,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="win11toast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tltnapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib/site-packages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/win11toast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.shiyan" />
+        <item itemvalue="Python.backend (1)" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.win11toast" />
+        <item itemvalue="Python.showdown" />
         <item itemvalue="Python.shiyan2" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="true" />
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\ycx\AppData\Roaming\Subversion</configuration>
@@ -246,6 +713,14 @@
       <option name="presentableId" value="Default" />
       <updated>1691054317060</updated>
     </task>
+    <task id="LOCAL-00001" summary="重新上传">
+      <created>1691243597727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691243597727</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,7 +728,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="app" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -261,9 +753,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/.idea" />
     </ignored-roots>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="重新上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="重新上传" />
   </component>
 </project>
