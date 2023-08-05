@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552e7ac2-df96-46ef-ba1a-268e3b8d5cfd" name="变更" comment="" />
+    <list default="true" id="552e7ac2-df96-46ef-ba1a-268e3b8d5cfd" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,8 +38,8 @@
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="C:/Windows/System32/OpenSSH/ssh.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
@@ -231,8 +233,10 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\ycx\AppData\Roaming\Subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
     <option name="sshConnectionType" value="PASSWORD" />
-    <option name="sshUserName" value="fakemb=v" />
+    <option name="sshExecutablePath" value="C:\Windows\System32\OpenSSH\ssh.exe" />
+    <option name="sshUserName" value="fakemv" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
